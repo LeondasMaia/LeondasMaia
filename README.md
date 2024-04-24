@@ -1,5 +1,3 @@
-[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
-
 ## Olá, Me Chamo Leondas Maia! 😉
 
 -🎖️ Hoje meu foco maior está em Analise de dados
