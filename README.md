@@ -2,7 +2,7 @@
 
 -🎖️ Hoje meu foco maior está em Analise de dados
 
--🎯 Estudando Front-End
+-🎯 Estudando Front-End / Back-End
 
 -😉 Pronous: Ele/Dele
 
