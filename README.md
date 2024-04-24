@@ -1,18 +1,16 @@
-## Olá, Me Chamo Leondas Maia!
+[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
+
+## Olá, Me Chamo Leondas Maia! 😉
 
 -🎖️ Hoje meu foco maior está em Analise de dados
 
 -🎯 Estudando Front-End / Back-End
 
--😉 Pronous: Ele/Dele
+-😊 Pronous: Ele/Dele
 
-<div>
-  <a href="https://github.com/ellen2121">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=LeondasMaia&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeondasMaia&layout=compact&langs_count=7&theme=react" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeondasMaia&show_icons=true&locale=en&layout=compact" alt="kimjayden" /></p>
 
-  <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LeondasMaia&show_icons=true&locale=en" alt="peter-kimanzi" /></p>
 
 
 <div style="display: inline_block"><br>
@@ -30,3 +28,5 @@
   <a href="https://www.linkedin.com/in/leondasmaia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+
