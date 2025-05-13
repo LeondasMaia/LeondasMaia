@@ -2,10 +2,6 @@
 
 -🎖️ Hoje meu foco maior está em Analise de dados
 
--🎯 Estudando Front-End / Back-End
-
--✅ Pronomes: Ele/Dele
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeondasMaia&show_icons=true&locale=en&layout=compact" alt="kimjayden" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LeondasMaia&show_icons=true&locale=en" alt="peter-kimanzi" /></p>
