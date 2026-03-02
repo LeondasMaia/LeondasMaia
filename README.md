@@ -1,4 +1,4 @@
-## Olá, Me Chamo Leondas Maia! 😉
+## Muito Prazer, sou Leondas Maia
 
 -🎖️ Hoje meu foco maior está em Analise de dados
 
