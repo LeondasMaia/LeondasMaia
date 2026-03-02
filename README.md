@@ -1,12 +1,5 @@
 ## Muito Prazer, sou Leondas Maia
 
--🎖️ Hoje meu foco maior está em Analise de dados
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeondasMaia&show_icons=true&locale=en&layout=compact" alt="kimjayden" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LeondasMaia&show_icons=true&locale=en" alt="peter-kimanzi" /></p>
-
-
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
